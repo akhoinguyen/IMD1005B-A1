@@ -57,13 +57,15 @@ nav .tagline {
 
 .hero-banner {
     padding: 40px;
-    background-color: aqua;
+    background: url("../images/hero-bg-home.jpg");
+    background-size: cover;
     height: 100vh;
 }
 
 .hero-banner-content {
     max-width: 500px;
     padding: 20px;
+    margin-top: 35vh;
     background-color: #eb2940;
     margin-left: auto;
     margin-right: auto;
