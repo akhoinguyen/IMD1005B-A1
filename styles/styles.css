@@ -1,7 +1,8 @@
 /* --- UNIVERSAL STYLES --- */
 
 * {
-    font-family: "Open Sans", sans-serif;
+    font-family: Helvetica, sans-serif;
+    font-family: "Manrope", sans-serif;
     line-height: 1.2;
 }
 
@@ -15,13 +16,17 @@ p {
     margin-bottom: 20px;
 }
 
-
-
-button a {
-    display: inline-block;
-    text-decoration: none;
-    padding: 10px;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Prata", serif;
+    font-weight: 400;
+    font-style: normal;
 }
+
 
 /* Type scale setup by https://typescale.com/ */
 h1 {
@@ -46,6 +51,12 @@ h5 {
 
 h6 {
     font-size: 1rem;
+}
+
+button a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
 }
 
 /* --- REUSABLE CLASSES */
@@ -101,8 +112,13 @@ h6 {
     font-weight: bold;
 }
 
-.white {
+.white,
+.text-white {
     color: white;
+}
+
+.bg-white {
+    background-color: white;
 }
 
 .marg-b-20 {
@@ -206,6 +222,10 @@ nav .tagline {
 
 .home-section-2-img {
     background: url("../images/miner-1.jpg");
+}
+
+.home-section-3-img {
+    background: url("../images/jeweler-1.jpg");
 }
 
 .home-section-img {
