@@ -3,7 +3,7 @@
 * {
     font-family: Helvetica, sans-serif;
     font-family: "Manrope", sans-serif;
-    line-height: 1.2;
+    line-height: auto;
 }
 
 h1,
@@ -61,6 +61,20 @@ button a {
 
 /* --- REUSABLE CLASSES */
 
+.max-width {
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.max-width-narrow {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
 .flex {
     display: flex;
     flex-direction: column-reverse;
@@ -77,7 +91,6 @@ button a {
 .gap-20 {
     gap: 20px;
 }
-
 
 .flex-item-33 {
     flex: 0 0 100%;
@@ -96,20 +109,16 @@ button a {
 }
 
 
-.max-width {
-    max-width: 1440px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.max-width-narrow {
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+.text-center {
+    text-align: center;
 }
 
 .bold {
     font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
 }
 
 .white,
@@ -120,6 +129,12 @@ button a {
 .bg-white {
     background-color: white;
 }
+
+.bg-black {
+    background-color: black;
+}
+
+
 
 .marg-b-20 {
     margin-bottom: 20px;
@@ -198,7 +213,7 @@ nav .tagline {
     padding: 40px;
     background: url("../images/hero-bg-home.jpg");
     background-size: cover;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .hero-banner-content {
@@ -211,10 +226,6 @@ nav .tagline {
 }
 
 /* --- CONTENT STYLES --- */
-
-.home-section-1 {
-    background-color: black;
-}
 
 .home-section-1-img {
     background: url("../images/diamond-1.jpg");
