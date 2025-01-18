@@ -27,7 +27,6 @@ h6 {
     font-style: normal;
 }
 
-
 /* Type scale setup by https://typescale.com/ */
 h1 {
     font-size: 3.815rem;
@@ -59,6 +58,12 @@ button a {
     padding: 10px;
 }
 
+section {
+    margin-bottom: 20px;
+}
+
+
+
 /* --- REUSABLE CLASSES */
 
 .max-width {
@@ -77,14 +82,14 @@ button a {
 
 .flex {
     display: flex;
+    flex-direction: column;
+}
+
+.flex-reverse {
     flex-direction: column-reverse;
 }
 
 .flex-a-i-center {
-    align-items: center;
-}
-
-.flex-a-i-stretch {
     align-items: center;
 }
 
@@ -214,19 +219,33 @@ nav .tagline {
 
 .hero-banner {
     padding: 40px;
+}
+
+
+.hero-banner-home {
     background: url("../images/hero-bg-home.jpg");
     background-size: cover;
     min-height: 100vh;
 }
 
+.hero-banner-learn {
+    background: url("../images/jeweler-1.jpg");
+    background-size: cover;
+}
+
 .hero-banner-content {
     max-width: 800px;
     padding: 20px;
-    margin-top: 35vh;
     /* background-color: #eb2940; */
     margin-left: auto;
     margin-right: auto;
 }
+
+.hero-banner-home .hero-banner-content {
+    margin-top: 35vh;
+}
+
+
 
 /* --- CONTENT STYLES --- */
 
@@ -255,6 +274,10 @@ nav .tagline {
 
 @media only screen and (min-width: 768px) {
 
+    section {
+        margin-bottom: 0;
+    }
+
     .flex {
         flex-direction: row;
     }
@@ -272,10 +295,10 @@ nav .tagline {
     }
 
     .home-section-img {
-        min-height: 400px;
+        min-height: 500px;
     }
 
-    .home-section-3 {
+    .home-section-2, .home-section-3 {
         padding-top: 100px;
         padding-bottom: 100px;
     }
