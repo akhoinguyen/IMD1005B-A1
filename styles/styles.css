@@ -159,6 +159,12 @@ section {
     padding-bottom: 20px;
 }
 
+.pad-tb-100 {
+/* only on M and L screens */
+}
+
+
+
 .btn-reg {
     border: none;
     background-color: black;
@@ -217,20 +223,23 @@ nav .tagline {
     font-size: 2rem;
 }
 
-.hero-banner {
-    padding: 40px;
-}
 
 
 .hero-banner-home {
     background: url("../images/hero-bg-home.jpg");
-    background-size: cover;
     min-height: 100vh;
 }
 
 .hero-banner-learn {
-    background: url("../images/jeweler-1.jpg");
+    background: url("../images/diamond-2.jpg");
+
+}
+
+.hero-banner {
+    padding: 40px;
     background-size: cover;
+    background-position: center;
+    min-height: 20vh;
 }
 
 .hero-banner-content {
@@ -272,10 +281,17 @@ nav .tagline {
     background-color: #ededed;
 }
 
+
+
 @media only screen and (min-width: 768px) {
 
     section {
         margin-bottom: 0;
+    }
+
+    .pad-tb-100 {
+        padding-top: 100px;
+        padding-bottom: 100px;
     }
 
     .flex {
@@ -298,8 +314,4 @@ nav .tagline {
         min-height: 500px;
     }
 
-    .home-section-2, .home-section-3 {
-        padding-top: 100px;
-        padding-bottom: 100px;
-    }
 }
