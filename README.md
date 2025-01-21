@@ -20,3 +20,7 @@ Photo by Tima Miroshnichenko from Pexels: https://www.pexels.com/photo/creative-
 ### Learn
 
 Photo by Arjiv Exports: https://www.pexels.com/photo/emerald-cut-diamond-5378463/
+
+Photo by  say straight: https://www.pexels.com/photo/close-up-photo-of-diamond-ring-2735981/
+
+Photo by The Glorious  Studio : https://www.pexels.com/photo/silver-diamond-studded-pendant-necklace-in-close-up-shot-10983780/
