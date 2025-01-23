@@ -26,3 +26,7 @@ Photo by  say straight: https://www.pexels.com/photo/close-up-photo-of-diamond-r
 Photo by The Glorious  Studio : https://www.pexels.com/photo/silver-diamond-studded-pendant-necklace-in-close-up-shot-10983780/
 
 Photo by Max Vakhtbovycn: https://www.pexels.com/photo/necklace-with-decor-on-jewelry-box-at-home-6394590/
+
+Photo by Laura Chouette: https://www.pexels.com/photo/elegant-engagement-ring-in-velvet-box-28843819/
+
+Photo by The Glorious  Studio : https://www.pexels.com/photo/silver-diamond-stud-earrings-in-close-up-photography-5370644/
