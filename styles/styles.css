@@ -145,7 +145,7 @@ td {
 .flex-item-img img {
     position: relative;
     min-width: 135%;
-    left: -10%;
+    left: -20%;
     top: -10%;
 }
 
