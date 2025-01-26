@@ -32,39 +32,16 @@ h6 {
     font-family: "Manrope", sans-serif;
 }
 
-/* Type scale setup by https://typescale.com/ */
-h1 {
-    font-size: 3.815rem;
-}
 
-h2 {
-    font-size: 2.441rem;
-}
-
-h3 {
-    font-size: 1.953rem;
-}
-
-h4 {
-    font-size: 1.563rem;
-}
-
-h5 {
-    font-size: 1.25rem;
-}
-
-h6 {
-    font-size: 1rem;
-}
-
-a {
-    color: black;
-}
 
 button a {
     display: inline-block;
     text-decoration: none;
     padding: 10px;
+}
+
+button:hover {
+    background-color: #666;
 }
 
 section {
@@ -282,7 +259,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #eb2940;
+    color: #dedede;
 }
 
 nav .tagline {
@@ -376,6 +353,36 @@ nav .tagline {
 
 @media only screen and (min-width: 768px) {
 
+    /* Type scale setup by https://typescale.com/ */
+
+    h1 {
+        font-size: 3.815rem;
+    }
+
+    h2 {
+        font-size: 2.441rem;
+    }
+
+    h3 {
+        font-size: 1.953rem;
+    }
+
+    h4 {
+        font-size: 1.563rem;
+    }
+
+    h5 {
+        font-size: 1.25rem;
+    }
+
+    h6 {
+        font-size: 1rem;
+    }
+
+    a {
+        color: black;
+    }
+
     section {
         margin-bottom: 0;
     }
@@ -404,6 +411,10 @@ nav .tagline {
 
     .flex-item-67 {
         flex: 0 0 66.7%;
+    }
+
+    .hero-banner {
+        height: 20vh;
     }
 
     .home-section-3-img {
