@@ -1,8 +1,16 @@
 # IMD1005 B — Assignment 1
 
-## Reflections
+## Reflection
 
-This assignment is 
+I would say web design is one of my strong suits. I have had many chances over the years to work on a few web projects, both professionally and personally. However, I learned a lot of new skills that I was able to apply to this project, and I had fun designing and writing content for this website.
+
+The topic I chose is Synthetic Diamonds. I've recently seen too many online discourses where there are a lot of misinformation being thrown around, and since I'm the type of person to Google  random facts just to learn accurate, science-backed knowledge about random things I'm interested in, I decided to choose this topic make a website on it.
+
+Since I am familiar with some components of web design, this assignment didn't give me much trouble. The only part that took extra time to figure out was the image gallery on the Learn page. The gallery contains images of different dimensions and aspect ratios and to fit them all consistently into the grid took a good amount of time and effort. Provided, I could have cropped the images all consistently to make the job easier, however I wanted to experiment and push myself to see if I could use code to achieve the outcome.
+
+If there's one thing I wish I could learn to implement is reusable code templates, where I only need to write the repeated, site-wide elements - like header, footer - once and use Javascript to load them on different pages.
+
+I hope you enjoy the content of the site, and I hope you learn a thing or two about my topic of interest :\)
 
 ## Media Attributes
 
