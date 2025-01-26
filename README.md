@@ -40,4 +40,6 @@ Photo by Max Vakhtbovycn from [Pexels](https://www.pexels.com/photo/necklace-wit
 
 Photo by Laura Chouette from [Pexels](https://www.pexels.com/photo/elegant-engagement-ring-in-velvet-box-28843819/)
 
+Photo by peter huang from [Pexels](https://www.pexels.com/photo/close-up-shot-of-a-diamond-ring-4291121/)
+
 Photo by The Glorious  Studio from [Pexels](https://www.pexels.com/photo/silver-diamond-stud-earrings-in-close-up-photography-5370644/)
