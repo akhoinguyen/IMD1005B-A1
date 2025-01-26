@@ -19,6 +19,8 @@ Photo by Tima Miroshnichenko from Pexels: https://www.pexels.com/photo/creative-
 
 ### Learn
 
+Photo by Anna Nekrashevich from Pexels: https://www.pexels.com/photo/grayscale-photo-of-crystals-quartz-8516716/
+
 Photo by Arjiv Exports: https://www.pexels.com/photo/emerald-cut-diamond-5378463/
 
 Photo by  say straight: https://www.pexels.com/photo/close-up-photo-of-diamond-ring-2735981/
